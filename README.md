@@ -1,0 +1,1 @@
+This program allows the user to enter the length and width of an area they want to cover in carpet, then it asks the user the price per square foot of the carpet. With this information it calculates the area, how much it would cost to cover that area in carpet, and displays all of that to the user.
